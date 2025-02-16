@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Travelgram é uma pagina de receita de um cupcake.
+O Travelgram é um site de compartilhamento de fotos de viagens
 
 - [Acesse o projeto finalizado, online](https://rianzzz.github.io/TravelGram/)
 
